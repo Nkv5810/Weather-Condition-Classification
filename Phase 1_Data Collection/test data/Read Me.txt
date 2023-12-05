@@ -1,0 +1,1 @@
+The weather_data_extended.json has been extracted using the api call in the train data folder, so the code it not written again. So, in fecth_weather_data_extended.ipynb, data extraction using api is ommitted and the weather_data_extended.json has been read driectly and transformed into a dataframe suitable for analysis.
